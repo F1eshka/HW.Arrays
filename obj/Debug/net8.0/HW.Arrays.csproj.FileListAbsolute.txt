@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\bin\Debug\net8.0\HW.Arrays.exe
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\bin\Debug\net8.0\HW.Arrays.deps.json
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\bin\Debug\net8.0\HW.Arrays.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\bin\Debug\net8.0\HW.Arrays.dll
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\bin\Debug\net8.0\HW.Arrays.pdb
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.dll
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\refint\HW.Arrays.dll
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.pdb
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\HW.Arrays.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Arrays\HW.Arrays\obj\Debug\net8.0\ref\HW.Arrays.dll
